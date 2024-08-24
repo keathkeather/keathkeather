@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **spring and nest**
 
-- 📫 How to reach me **keathian.lavador@gmail.com** or through my portfolio **[keath](https://keath.vercel.app/)**
+- 📫 How to reach me **keathian.lavador@gmail.com** or through my **portfolio(https://keath.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
