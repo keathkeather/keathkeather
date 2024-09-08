@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keath Ian</h1>
-<h3 align="center">I am a 3rd year Information technology Student that aims to be a backend engineer :)</h3>
+<h3 align="center">I am a 4th year Information technology Student that aims to be a backend engineer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keathkeather&label=Profile%20views&color=0e75b6&style=flat" alt="keathkeather" /> </p>
 
