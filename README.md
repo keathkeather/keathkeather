@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keathkeather&label=Profile%20views&color=0e75b6&style=flat" alt="keathkeather" /> </p>
 
-- 🌱 I’m currently learning **Rust for blockchain and Golang for backend development**
+- 🌱 I’m currently learning  Golang for backend development**
 
 - 💬 Ask me about **spring and nest**
 
